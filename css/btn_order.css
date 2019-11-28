@@ -1,0 +1,27 @@
+/* кнопки самовывоз и достака весь прописан в JS*/
+.offer__post-border{
+    width: 241px;
+    height: 102px;
+    border: 1px solid #AAAAAA;
+    border-radius: 6px;
+
+}
+
+.offer__post-border-title{
+    font-size: 18px;
+    color: #555555;
+    font-weight: bold;
+}
+
+.offer__post-border-sent{
+    font-size: 14px;
+}
+/* перейти к оплате*/
+.order-active{
+    background: rgb(159, 29, 32);
+    width: 280px;
+    height: 48px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+}
